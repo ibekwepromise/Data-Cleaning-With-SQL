@@ -6,7 +6,7 @@ In the realm of data analysis, the adage "garbage in, garbage out" underscores t
 
 ## DATASET OVERVIEW
 This Dataset was gotten from Github, initially posted on Kaggle.
-I used Microsoft SQL Server to carryout this data manipulation. 
+I used Microsoft SQL Server to carryout this data manipulation and cleaning. 
 
 ## PROJECT OBJECTIVE
 Through SQL queries tailored to address specific data cleaning tasks, we will navigate through the intricacies of Nashville Housing Dataset. From standardizing format to populating column, spliting columns and creating individual columns, finding and replacing misspelled words, removing duplicate rows and deleting unwanted columns. Each step in the data cleaning process plays a vital role in enchancing the dataset's integrity and usability.
